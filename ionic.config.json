@@ -1,0 +1,7 @@
+{
+  "name": "ShopXplore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
